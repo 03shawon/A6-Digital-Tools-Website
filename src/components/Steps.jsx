@@ -1,8 +1,8 @@
 const Steps = () => {
   const stepList = [
-    { id: "01", title: "Create Account", desc: "Sign up for free in seconds.", icon: <img src="/src/assets/user.png" alt="" /> },
-    { id: "02", title: "Choose Products", desc: "Select the tools that fit your needs.", icon: <img src="/src/assets/package.png" alt="" /> },
-    { id: "03", title: "Start Creating", desc: "Download and start using immediately.", icon: <img src="/src/assets/rocket.png" alt="" /> }
+    { id: "01", title: "Create Account", desc: "Sign up for free in seconds.", icon: <img src="./src/assets/user.png" alt="" /> },
+    { id: "02", title: "Choose Products", desc: "Select the tools that fit your needs.", icon: <img src="./src/assets/package.png" alt="" /> },
+    { id: "03", title: "Start Creating", desc: "Download and start using immediately.", icon: <img src="./src/assets/rocket.png" alt="" /> }
   ];
 
   return (
