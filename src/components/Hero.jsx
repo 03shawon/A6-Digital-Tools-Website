@@ -18,7 +18,7 @@ const Hero = () => {
       </div>
       <div className="md:w-1/2 mt-10 md:mt-0 flex justify-end">
         <div className="p-4 border border-emerald-400 rounded-[2rem] bg-gray-50 shadow-sm">
-          <img src="/src/assets/banner.png" alt="Hero" className="rounded-2xl max-w-full" />
+          <img src="/banner.png" alt="Hero" className="rounded-2xl max-w-full" />
         </div>
       </div>
     </header>
