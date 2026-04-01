@@ -8,7 +8,7 @@ const Steps = () => {
   return (
     <section className="bg-gray-50 py-24 text-center px-6">
       <h2 className="text-4xl font-bold text-slate-900 mb-4">Get Started In 3 Steps</h2>
-      <p className="text-gray-500 mb-16">Start using premium digital tools in minutes.</p>
+      <p className="text-gray-500 mb-16">Start using premium digital tools in minutes, not hours.</p>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-6xl mx-auto">
         {stepList.map((step) => (
           <div key={step.id} className="bg-white p-10 rounded-3xl shadow-sm border border-gray-100 relative group">
