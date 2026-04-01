@@ -6,10 +6,12 @@ const Hero = () => {
           ✨ New: AI-Powered Tools Available
         </span>
         <h1 className="text-6xl font-extrabold mt-6 leading-tight text-slate-900">
-          Supercharge Your <br/> Digital Workflow
+          Supercharge Your <br /> <span className="text-purple-700">Digital Workflow</span>
         </h1>
         <p className="text-gray-500 mt-6 text-lg max-w-lg leading-relaxed">
-          Access premium AI tools, design assets, templates, and productivity software—all in one place.
+          Access premium AI tools, design assets, templates, and productivity
+          software—all in one place. Start creating faster today.
+          Explore Products
         </p>
         <div className="mt-8 flex gap-4">
           <button className="btn bg-purple-600 hover:bg-purple-700 text-white rounded-full px-10 border-none">Explore Products</button>
