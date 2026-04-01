@@ -1,16 +1,22 @@
-# React + Vite
+🚀 DigiTools - My Digital Marketplace Project
+DigiTools is a modern digital marketplace platform I built to help creators, professionals, and businesses streamline their workflows. This project allows users to browse a curated collection of premium digital tools and manage their selections through a dynamic shopping cart.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+⚙️ Technologies Used
+I have leveraged the following technologies to build this fast and responsive application:
 
-Currently, two official plugins are available:
+Core Library: React.js (v18+) for building a component-based, dynamic user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Styling & UI: Tailwind CSS for custom utility-first styling and DaisyUI for clean, accessible UI components.
 
-## React Compiler
+Programming Language: JavaScript (ES6+) for implementing complex logic and state management.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Notifications: React-Toastify to provide real-time, user-friendly feedback for cart actions.
 
-## Expanding the ESLint configuration
+Data Management: JSON to store and manage a scalable list of premium product data.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔥 Top 3 Features of This Project
+Dynamic Shopping Cart: Users can add products to their cart with real-time updates. I implemented logic to prevent duplicate items and show clear success/error notifications.
+
+Smooth Tab Navigation: I used React state to create a seamless toggle between the Product Gallery and the Cart view, allowing users to switch sections without any page reloads.
+
+Professional Pricing Tables: A clean and transparent pricing section featuring Starter, Pro, and Enterprise tiers to help users easily compare plans.
