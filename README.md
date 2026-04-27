@@ -20,3 +20,5 @@ Dynamic Shopping Cart: Users can add products to their cart with real-time updat
 Smooth Tab Navigation: I used React state to create a seamless toggle between the Product Gallery and the Cart view, allowing users to switch sections without any page reloads.
 
 Professional Pricing Tables: A clean and transparent pricing section featuring Starter, Pro, and Enterprise tiers to help users easily compare plans.
+
+Live Demo: https://digital-tools-marketplace-project.netlify.app/
